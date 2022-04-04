@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zb980921
 - 👀 I’m interested in WEB
-- 🌱 I’m currently learning FE
+- 🌱 I’m currently learning Frond-End
 
 - 我叫朱备，一名来自中国的 Web 前端开发者。
 
