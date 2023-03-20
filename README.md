@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhu Bei
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning FE & Go
+- 👋 Hi, I’m Zhu Bei.
+- 👀 I’m interested in Web.
+- 🌱 I’m currently learning React and Vue.
 - 我叫朱备，一名来自中国的 Web 前端开发者。
