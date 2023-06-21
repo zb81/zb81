@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Zhu Bei.
 - 👀 I’m interested in Web.
-- 🌱 I’m currently learning web 3d.
+- 🌱 I’m currently learning WebGL/Nest/Nuxt.
